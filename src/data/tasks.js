@@ -1,17 +1,17 @@
 export const tasks = [{
         id: 0,
-        title: 'primera tarea',
-        description: "mi primer tarea",
+        title: 'first task',
+        description: "first task",
     },
     {
         id: 1,
-        title: 'segunda tarea',
-        description: "mi segunda tarea",
+        title: 'second task',
+        description: "second task",
     },
     {
         id: 2,
-        title: 'tercera tarea',
-        description: "mi tercera tarea",
+        title: 'third task',
+        description: "third task",
     },
 
 ]
